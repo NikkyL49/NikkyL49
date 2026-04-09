@@ -71,7 +71,7 @@
 
 ---
 
-### 🗺️ [Edmonton Housing Map]([https://github.com/NikkyL49](https://github.com/NikkyL49/housing-visualization)) — Property Visualization Tool
+### 🗺️ [Edmonton Housing Map](https://github.com/NikkyL49/housing-visualization) — Property Visualization Tool
 > Interactive Java desktop app visualizing Edmonton's 2025 property assessment data on a live map.
 
 - **Tech:** Java, ArcGIS Maps SDK, Maven, City of Edmonton Open Data
