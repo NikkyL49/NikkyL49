@@ -53,7 +53,7 @@
 
 ## 🚀 Featured Projects
 
-### 🏠 [Rentify](https://github.com/NikkyL49) — Student Rental Marketplace
+### 🏠 [Rentify](https://github.com/NikkyL49/Rentify) — Student Rental Marketplace
 > A full-stack student-to-student rental platform for campus items like textbooks, laptops, and lab equipment.
 
 - **Tech:** Next.js 14, TypeScript, Supabase (PostgreSQL), Row Level Security, Vercel
@@ -71,7 +71,7 @@
 
 ---
 
-### 🗺️ [Edmonton Housing Map](https://github.com/NikkyL49) — Property Visualization Tool
+### 🗺️ [Edmonton Housing Map]([https://github.com/NikkyL49](https://github.com/NikkyL49/housing-visualization)) — Property Visualization Tool
 > Interactive Java desktop app visualizing Edmonton's 2025 property assessment data on a live map.
 
 - **Tech:** Java, ArcGIS Maps SDK, Maven, City of Edmonton Open Data
